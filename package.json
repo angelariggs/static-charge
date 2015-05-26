@@ -1,0 +1,19 @@
+{
+  "name": "static-charge",
+  "version": "1.0.0",
+  "description": "Simple static site generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelariggs/static-charge.git"
+  },
+  "author": "Angela Riggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelariggs/static-charge/issues"
+  },
+  "homepage": "https://github.com/angelariggs/static-charge#readme"
+}
