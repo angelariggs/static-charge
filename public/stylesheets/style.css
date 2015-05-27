@@ -1,8 +1,77 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: #35203B;
 }
 
-a {
-  color: #00B7FF;
+/*Index Page*/
+
+.title {
+  text-align: center;
+  color: #ED8C2B;
+  font-family: 'Playfair Display', serif;
+  font-weight: 800;
+  font-size: 2.5em;
+  margin-bottom: 60px;
+}
+
+body p {
+  text-align: center;
+}
+
+.musings {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-size: 2em;
+  color: #CF4A30;
+  text-align: center;
+  border: 3px solid #CF4A30;
+  margin: 0 13em;
+  padding: 5px 5px;
+}
+
+.postList {
+  color: #88A825;
+  text-decoration: none;
+  font-family: 'Fauna One';
+  font-size: 1.25em;
+}
+
+/*Post Pages*/
+
+body footer a {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  color: #88A825;
+}
+
+body header p {
+  font-family: 'Fauna One';
+  color: #ED8C2B;
+  text-align: left;
+}
+
+body header h1.postTitle {
+  font-family: 'Playfair Display', serif;
+  font-weight: 800;
+  color: #911146;
+  text-align: center;
+  border: 3px dashed #88A825;
+  margin: 0 13em;
+  padding: 5px 5px;
+}
+
+body header p a {
+  color: #88A825;
+}
+
+.postAuthor {
+
+}
+
+.postDate {
+
+}
+
+.postContents {
+  
 }

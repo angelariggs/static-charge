@@ -1,0 +1,20 @@
+---
+title: Ginger!
+author: Angela Riggs
+date: 2015-05-23
+---
+
+Overconfidence, this, and a small screwdriver. I’m absolutely sorted. There's something that doesn't make sense. Let's go and poke it with a stick. Bow ties are cool. Frightened people. Give me a Dalek any day. Thank you, Strax. And if I'm ever in need of advice from a psychotic potato dwarf, you'll certainly be the first to know. Oh, I always rip out the last page of a book. Then it doesn't have to end. I hate endings! Brave heart, Clara. Look at me. No plans, no backup, no weapons worth a damn. Oh, and something else I don't have: anything to lose. So, if you're sitting up there with your silly little spaceships and your silly little guns and you've any plans on taking the Pandorica tonight; just remember who's standing in your way. Remember every black day I ever stopped you and then, and then, do the smart thing. Let somebody else try first.  
+
+Geronimo! Yes, well, it's a brilliant noise. I love that noise. Goodbye, Clara. I need...I need...I need... fish fingers and custard! Father Christmas. Santa Claus. Or, as I’ve always known him, Jeff. It's a fez. I wear a fez now. Fezzes are cool. Please tell me I didn't get old. Anything but old. I was young! Oh... is he grey? There's something that doesn't make sense. Let's go and poke it with a stick. Come along, Pond! Look at me. No plans, no backup, no weapons worth a damn. Oh, and something else I don't have: anything to lose. So, if you're sitting up there with your silly little spaceships and your silly little guns and you've any plans on taking the Pandorica tonight; just remember who's standing in your way. Remember every black day I ever stopped you and then, and then, do the smart thing. Let somebody else try first.  
+
+I know. Dinosaurs! On a spaceship! Usually called 'The Doctor.' Or 'The Caretaker.' Or 'Get off this planet.' Though, strictly speaking, that probably isn't a name. Thank you, Strax. And if I'm ever in need of advice from a psychotic potato dwarf, you'll certainly be the first to know. Oh, I always rip out the last page of a book. Then it doesn't have to end. I hate endings! Please tell me I didn't get old. Anything but old. I was young! Oh... is he grey? No idea. Just do what I do: hold tight and pretend it's a plan.  
+Father Christmas. Santa Claus. Or, as I’ve always known him, Jeff. I once spent a hell of a long time trying to get a gobby Australian to Heathrow airport. I never know why. I only know who. Geronimo! Come along, Pond! Look at me. No plans, no backup, no weapons worth a damn. Oh, and something else I don't have: anything to lose. So, if you're sitting up there with your silly little spaceships and your silly little guns and you've any plans on taking the Pandorica tonight; just remember who's standing in your way. Remember every black day I ever stopped you and then, and then, do the smart thing. Let somebody else try first.  
+
+There are fixed points throughout time where things must stay exactly the way they are. This is not one of them. This is an opportunity! Whatever happens here will create its own timeline, its own reality, a temporal tipping point. The future revolves around you, here, now, so do good! I once spent a hell of a long time trying to get a gobby Australian to Heathrow airport. Look at me. No plans, no backup, no weapons worth a damn. Oh, and something else I don't have: anything to lose. So, if you're sitting up there with your silly little spaceships and your silly little guns and you've any plans on taking the Pandorica tonight; just remember who's standing in your way. Remember every black day I ever stopped you and then, and then, do the smart thing. Let somebody else try first.
+
+[Bow ties are cool.](http://en.wikipedia.org/wiki/Eleventh_Doctor)
+
+[Allons-y!](http://en.wikipedia.org/wiki/Tenth_Doctor")
+
+[Fantastic!](http://en.wikipedia.org/wiki/Ninth_Doctor")

@@ -1,4 +1,15 @@
 extends layout
 
 block content
-  != postContents
+  body
+    header
+      h1.postTitle
+        != postTitle
+      p.postAuthor 
+        != postAuthor
+      p.postDate 
+        != postDate
+      p.postContents
+        != postContents
+  footer
+    a(href='http://localhost:3000/') Home

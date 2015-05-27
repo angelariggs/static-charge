@@ -1,0 +1,19 @@
+function compareNums(a,b) {
+  return a-b
+}
+
+var array1 = [1, 11, 6, 8, 2, 3]
+
+array1.sort(compareNums)
+[11, 8, 6, 3, 2, 1]
+compareNums returns in descending order
+
+----
+
+function.compareByLength(str1, str2) {
+  return str1.length-str2.length
+}
+
+var array3 = ["a", "aaaaaaa", "z", "zzzzzz"]
+array3.sort(compareByLength)
+
