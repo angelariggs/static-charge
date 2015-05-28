@@ -11,5 +11,13 @@ block content
         != postDate
       p.postContents
         != postContents
+      div.postNavigate 
+        if nextURL 
+          a.postNew(href= nextURL)
+            p Next
+        if previousURL
+          a.postOld(href= previousURL)
+            p Previous
+
   footer
     a(href='http://localhost:3000/') Home
