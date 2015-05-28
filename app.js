@@ -1,9 +1,12 @@
 var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');
-var logger = require('morgan');
+var logger = require('morgan'); 
+//morgan provides default msgs to console when requests are made; doesn't affect how the server response, just lists the response
 var cookieParser = require('cookie-parser');
+//cookie-parser deals w/cookies stored on the client
 var bodyParser = require('body-parser');
+// /module to handle http request bodies; get (client wants data from server), post(from client to server to put data somewhere), delete(obvious), put (data from client to server, revision to existing data). Get and Delete are 'thin' requests; they just need a header. 'Fat' requests like Post and Put have lots of data, and need a body. 
 
 var routes = require('./routes/index');
 var users = require('./routes/users');
