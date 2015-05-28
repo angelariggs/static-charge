@@ -1,0 +1,17 @@
+---
+title: Fantastic!
+author: Angela Riggs
+date: 2015-05-25
+---
+
+The thing is, Adam, time travel is like visiting Paris. You can't just read the guidebook, you've got to throw yourself in! Eat the food, use the wrong verbs, get charged double and end up kissing complete strangers! Or is that just me? And everybody lives, Rose! Everybody lives! I need more days like this! Go on, ask me anything; I'm on fire! One day, just one day, maybe I'll meet somebody who gets the whole 'don't wander off' thing. And I'm looking for a blonde in a Union Jack. A specific one, mind, I didn't just wake up this morning with a craving.
+
+The thing is, Adam, time travel is like visiting Paris. You can't just read the guidebook, you've got to throw yourself in! Eat the food, use the wrong verbs, get charged double and end up kissing complete strangers! Or is that just me? I think you need a doctor. And everybody lives, Rose! Everybody lives! I need more days like this! Go on, ask me anything; I'm on fire! Your wish is my command. But be careful what you wish for. Now, don't antagonize her. I love a happy medium! Excuse me, do you mind not farting while I'm saving the world?
+
+Fantastic! Lots of planets have a North. I think you need a doctor. The past is another country. 1987's just the Isle of Wight. The thing is, Adam, time travel is like visiting Paris. You can't just read the guidebook, you've got to throw yourself in! Eat the food, use the wrong verbs, get charged double and end up kissing complete strangers! Or is that just me? t's called the TARDIS, this thing. T-A-R-D-I-S. That's Time And Relative Dimension In Space. That’s okay. Culture shock. Happens to the best of us.
+
+One day, just one day, maybe I'll meet somebody who gets the whole 'don't wander off' thing. Fantastic! t's called the TARDIS, this thing. T-A-R-D-I-S. That's Time And Relative Dimension In Space. That’s okay. Culture shock. Happens to the best of us. The past is another country. 1987's just the Isle of Wight. Do you wanna come with me? 'Cause if you do, then I should warn you — you're gonna see all sorts of things. Ghosts from the past. Aliens from the future. The day the Earth died in a ball of flame. It won't be quiet, it won't be safe, and it won't be calm. But I'll tell you what it will be: The trip of a lifetime!
+
+Lots of planets have a North. Fantastic! Nine hundred years of time and space, and I've never been slapped by someone's mother. Rose... before I go, I just want to tell you: you were fantastic. Absolutely fantastic. And do you know what? So was I! Run. You look beautiful! ...considering. That you're human. Now, don't antagonize her. I love a happy medium! The past is another country. 1987's just the Isle of Wight. t's called the TARDIS, this thing. T-A-R-D-I-S. That's Time And Relative Dimension In Space. That’s okay. Culture shock. Happens to the best of us.
+
+Run. And everybody lives, Rose! Everybody lives! I need more days like this! Go on, ask me anything; I'm on fire! And I'm looking for a blonde in a Union Jack. A specific one, mind, I didn't just wake up this morning with a craving. Now, don't antagonize her. I love a happy medium! Nine hundred years of time and space, and I've never been slapped by someone's mother. t's called the TARDIS, this thing. T-A-R-D-I-S. That's Time And Relative Dimension In Space. That’s okay. Culture shock. Happens to the best of us.

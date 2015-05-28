@@ -1,0 +1,17 @@
+---
+title: Screwdrivers!
+author: Angela Riggs
+date: 2015-05-26
+---
+
+Why are you pointing your screwdrivers like that? They're scientific instruments, not water pistols. If I grow to be half the man that you are, Clara Oswald, then I shall be happy indeed. Great men are forged in fire. It is the privilege of lesser men to light the flame. Whatever the cost. And in that battle there was a man with more blood on his hands than any other. A man who would commit a crime that would silence the universe. And that man was me. Well, who are you boys? Oh, of course! Are you his companions?
+
+If I grow to be half the man that you are, Clara Oswald, then I shall be happy indeed. Go and be the Doctor that I could never be. Oh, for God's sake! Gallfrey stands! Do you have to talk like children? What is it that makes you so ashamed of being a grown-up? Are you capable of speaking without flapping your hands about? I don't suppose we'll ever know if we actually succeeded. But at worst, we failed doing the right thing, as opposed to succeeding in doing the wrong. Am I having a midlife crisis? Why are you pointing your screwdrivers like that? They're scientific instruments not water pistols!
+
+Why is there never a big red button? Doctor no more. Why are you pointing your screwdrivers like that? They're scientific instruments, not water pistols. If I grow to be half the man that you are, Clara Oswald, then I shall be happy indeed. Then, all things considered...it's time I grew up. I don't suppose we'll ever know if we actually succeeded. But at worst, we failed doing the right thing, as opposed to succeeding in doing the wrong. Are you capable of speaking without flapping your hands about?
+
+Do you have to talk like children? What is it that makes you so ashamed of being a grown-up? Great men are forged in fire. It is the privilege of lesser men to light the flame. Whatever the cost. Oh, the pointing again! They're screwdrivers! What are you going to do? Assemble a cabinet at them? Doctor no more. Why are you pointing your screwdrivers like that? They're scientific instruments, not water pistols. Shall we ask for a better quality of door so we can escape? Are you capable of speaking without flapping your hands about?
+
+Then, all things considered...it's time I grew up. Are you capable of speaking without flapping your hands about? Shall we ask for a better quality of door so we can escape? Why are you pointing your screwdrivers like that? They're scientific instruments, not water pistols. Oh, for God's sake! Gallfrey stands! Go and be the Doctor that I could never be. I don't suppose we'll ever know if we actually succeeded. But at worst, we failed doing the right thing, as opposed to succeeding in doing the wrong.
+
+And in that battle there was a man with more blood on his hands than any other. A man who would commit a crime that would silence the universe. And that man was me. Well, who are you boys? Oh, of course! Are you his companions? Do you have to talk like children? What is it that makes you so ashamed of being a grown-up? Shall we ask for a better quality of door so we can escape? Go and be the Doctor that I could never be. 'Timey' what? 'Timey wimey'? I don't have a future. Oh, the pointing again! They're screwdrivers! What are you going to do? Assemble a cabinet at them?

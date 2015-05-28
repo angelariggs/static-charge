@@ -15,7 +15,3 @@ I'm Dr. James McCrimmon from the township of Balamory. I'm the Doctor, I can sav
 I don't want to go. Allons-y! It is! It's the city of New New York! Strictly speaking, it's the fifteenth New York since the original, so that makes it New-New-New-New-New-New-New-New-New-New-New-New-New-New-New New York. I'll tell you what, then: don't...step on any butterflies. What have butterflies ever done to you? People assume that time is a strict progression of cause-and-effect... but actually, from a non-linear, non-subjective viewpoint, it's more like a big ball of wibbly-wobbly... timey-wimey... stuff.  
 
 What? What?! WHAT?! I'd call you a genius, except I'm in the room. Black tie...Whenever I wear this, something bad always happens. River, you know my name. You whispered my name in my ear! There's only one reason I would ever tell anyone my name. There's only one time I could... You need to get yourself a better dictionary. When you do, look up 'genocide'. You'll find a little picture of me there, and the caption'll read 'Over my dead body'. It is! It's the city of New New York! Strictly speaking, it's the fifteenth New York since the original, so that makes it New-New-New-New-New-New-New-New-New-New-New-New-New-New-New New York.
-
-0. one
-0. two
-<!-- <!-- 0. tre --> -->
